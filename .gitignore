@@ -1,0 +1,27 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# Output PDFs (build in CI instead of committing)
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local build folders
+build/
