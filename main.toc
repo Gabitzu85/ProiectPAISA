@@ -1,0 +1,39 @@
+\babel@toc {romanian}{}\relax 
+\contentsline {section}{\numberline {1}Introducere}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Domeniu de aplicare (scope) și ipoteze}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Managementul cerințelor (Requirements Management)}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Faza Preliminară (TOGAF): pregătirea capabilității de arhitectură}{8}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Principii de arhitectură}{8}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Guvernanță și roluri}{8}{subsubsection.1.3.2}%
+\contentsline {section}{\numberline {2}Faza A: Viziune arhitecturală}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Stakeholderi: preocupări și evaluare (SWOT)}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Figura 2: Fragment dintr-o vizualizare a părților interesate}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Motivația: dezvoltarea obiectivelor specifice de business pentru profit}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Principii: definiție și modelare}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}1. Cum ne asigurăm că Viziunea Arhitecturii răspunde cerințelor părților interesate}{11}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Faza B: Arhitectura afacerii (Business Architecture)}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Structura organizației (Organization View / Organization Decomposition)}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Capabilități de business (target)}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Diagrama de mai jos: flux de valoare și servicii de business (ArchiMate)}{13}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Faza C: Arhitectura sistemelor informaționale (Data \& Application Architecture)}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Arhitectura de date}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Diagrama de diseminare a datelor (Data Dissemination Diagram)}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Diagrama de mai jos: cooperarea aplicațiilor (Application Cooperation)}{15}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Faza D: Arhitectura tehnologică (Technology Architecture)}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Elemente tehnologice cheie}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Diagrama de mai jos: infrastructură (medii și locații)}{16}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Faza E: Oportunități și soluții (Opportunities \& Solutions)}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Pachete de lucru (work packages) propuse}{18}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Diagrama de mai jos: arhitecturi de tranziție (platouri) -- Figura 8}{18}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Faza F: Planificarea migrației (Migration Planning)}{18}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Roadmap (exemplu)}{19}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Diagramă: timeline de migrare (Figura 9)}{19}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Faza G: Guvernarea implementării (Implementation Governance)}{19}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Principii de guvernanță}{20}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Modelul de guvernanță (Figura 15)}{21}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Reguli și procedee de guvernanță}{21}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Contract de arhitectură (elemente)}{22}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Faza H: Managementul schimbărilor arhitecturale (Architecture Change Management)}{22}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Evaluarea impactului și decizia}{22}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Actualizarea arhitecturii și a artefactelor}{23}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Concluzii finale}{23}{section.10}%

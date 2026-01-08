@@ -1,0 +1,95 @@
+\documentclass[12pt]{article}
+
+\usepackage[romanian]{babel}
+\usepackage{fontspec} 
+
+\usepackage{lmodern}  
+\usepackage{adjustbox}
+\usepackage{geometry}
+\geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{amssymb}
+
+
+\renewcommand{\refname}{Bibliografie}
+\renewcommand{\contentsname}{Cuprins}
+\geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
+
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot[R]{\thepage} 
+\fancypagestyle{customStyle}{
+    \fancyfoot[R]{\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+
+\fancypagestyle{customStyleBar}{
+    \fancyfoot[R]{\thepage}
+    \renewcommand{\headrulewidth}{1pt}
+}
+\graphicspath{{imagini/}}
+
+
+\begin{document}
+
+\begin{center}
+    \includegraphics[width=0.18\textwidth]{imagini/upb_acs_logo.png} 
+    \hspace{6cm}
+    \raisebox{1cm}{\includegraphics[width=0.3\textwidth]{imagini/aii_logo.png}}
+    \vspace{1cm}
+    
+    \textbf{\large Facultatea Automatică și Calculatoare} \\
+    \textbf{\large Universitatea Națională de Știință și Tehnologie POLITEHNICA BUCUREȘTI}
+    
+    \vspace{2cm}
+    
+    
+   \thispagestyle{empty}
+
+\vspace*{2cm}
+
+\begin{center}
+    {\Large \textbf{Proiect PAISA}} \\[2cm]  
+    {\Huge \textbf{Proiectarea arhitecturilor pentru informatizarea 
+    sistemelor de afaceri}}
+\end{center}
+
+\vfill
+
+\begin{flushright}
+    {\Large
+    Constantinescu Gabriel-Valentin \\
+    Bondoc Ion-Tudor \\
+    Blaga Răzvan-Mihai \\}
+\end{flushright}
+    
+ 
+    
+   
+\end{center}
+
+\thispagestyle{empty} 
+
+\newpage
+
+\thispagestyle{customStyle}
+\tableofcontents
+\newpage
+
+
+
+\thispagestyle{customStyle}
+\include{Introduction.tex}
+\newpage
+
+\thispagestyle{customStyleBar}
+
+\end{document}
